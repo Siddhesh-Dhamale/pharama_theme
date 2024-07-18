@@ -48,7 +48,7 @@ const Header = () => {
                       <circle cx="2" cy="7" r="2" fill="#0E63FF" />
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
-                    <span>Help Desk :</span>+91 590 088 55
+                    <span>Help Desk :</span>+91 9820160482
                   </a>
                 </div>
                 <button
@@ -107,7 +107,7 @@ const Header = () => {
                       <circle cx="2" cy="7" r="2" fill="#0E63FF" />
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
-                    <span>Help Desk :</span>+91 590 088 55
+                    <span>Help Desk :</span>+91 9820160482
                   </a>
                 </div>
               </div>
