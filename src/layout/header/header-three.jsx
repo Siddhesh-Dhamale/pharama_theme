@@ -70,7 +70,7 @@ const HeaderThree = () => {
             <div className="header-customss">
               <div className="header-left-logo pb-80">
                 <Link href="/">
-                  <img src="/assets/img/logo/sidebar-logo.png" alt="logo" />
+                  <img src="/assets/img/logo/logo.png" alt="logo" />
                 </Link>
               </div>
               <div className="header-left-menu">
