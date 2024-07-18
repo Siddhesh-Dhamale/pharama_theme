@@ -80,7 +80,7 @@ const HeaderThree = () => {
               </div>
               <div className="header-left-contact">
                 <span>Make a Call</span>
-                <a href="tel:+9159008855">+9159008855</a>
+                <a href="tel:+919820160482">+919820160482</a>
               </div>
             </div>
           </header>

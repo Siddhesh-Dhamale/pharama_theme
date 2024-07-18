@@ -142,7 +142,7 @@ const Footer = () => {
                         <a href="#">Ta-134/A, Gulshan Badda Link </a>
                       </li>
                       <li>
-                        <a href="tel:+9159008855">(+880)155 69569 365</a>
+                        <a href="tel:+919820160482">(+880)155 69569 365</a>
                       </li>
                       <li>
                         <a href="mailto:support@rstheme.com">

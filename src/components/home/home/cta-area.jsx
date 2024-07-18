@@ -17,7 +17,7 @@ const Cta_Area = () => {
                   <h2 className="cta-title mb-35">
                     Looking for a best <br /> lebatory Service
                   </h2>
-                  <a href="tel:+9159008855" className="tp-cta-btn">
+                  <a href="tel:+919820160482" className="tp-cta-btn">
                     <svg
                       width="14"
                       height="19"
